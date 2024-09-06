@@ -2,4 +2,4 @@
 # bash script that lists listening ports
 # only shows listening sockets and its pid and name of which programs it belongs
 
-netstat -l --program
+netstat -l -p
